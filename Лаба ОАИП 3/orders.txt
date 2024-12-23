@@ -1,0 +1,2 @@
+FriedBear|4|450
+CannedJuice|1|1650
